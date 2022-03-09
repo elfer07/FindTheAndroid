@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Encuentra el Android</string>
+
+    <string name="instructions_title">
+   <b>Como Jugar:</b>
+   </string>
+
+    <string name="instructions">
+       \t \u2022 Encuentra el Android escondido detras de la pantalla negra. \n
+       \t \u2022 Presiona y no sueltes para buscar. \n
+       \t \u2022 Una vez encontrado el Android, deja de presionar para terminar el juego. \n \n
+       \t \u2022 Para reiniciar el juego presiona la pantalla.
+   </string>
+
+</resources>
